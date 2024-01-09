@@ -36,4 +36,4 @@ client.on('messageCreate', (message) => {
 });
 
 // Log in to Discord with the bot token
-client.login('MTE4OTUzMDAxOTU3NjQyNjYwNw.G1LpEa.x3NWco8hTLdP6Nb7EUPIYsNyOhKZwGAX4sIgaI');
+client.login('your token');
